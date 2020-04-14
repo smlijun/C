@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\smlij\source\repos\과제2-8\과제2-8\소스.c(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  과제2-8.vcxproj -> C:\Users\smlij\source\repos\과제2-8\Debug\과제2-8.exe

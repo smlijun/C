@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\smlij\source\repos\과제 5-6\과제 5-6\소스.c(18,8): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\smlij\source\repos\과제 5-6\과제 5-6\소스.c(18,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\smlij\source\repos\과제 5-6\과제 5-6\소스.c(14): warning C4716: 'swap': 값을 반환해야 합니다.
+  과제 5-6.vcxproj -> C:\Users\smlij\source\repos\과제 5-6\Debug\과제 5-6.exe

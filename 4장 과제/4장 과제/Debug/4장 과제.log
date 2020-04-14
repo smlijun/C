@@ -1,0 +1,10 @@
+﻿  ex0402.c
+C:\Users\smlij\source\repos\4장 과제\4장 과제\ex0402.c(15,21): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  ex0403.c
+  ex0405.c
+  main.c
+  코드를 생성하고 있습니다...
+C:\Users\smlij\source\repos\4장 과제\4장 과제\ex0403.c(31): warning C4716: 'ex0403': 값을 반환해야 합니다.
+C:\Users\smlij\source\repos\4장 과제\4장 과제\ex0402.c(35): warning C4716: 'ex0402': 값을 반환해야 합니다.
+C:\Users\smlij\source\repos\4장 과제\4장 과제\ex0402.c(23): warning C4716: 'distance': 값을 반환해야 합니다.
+  4장 과제.vcxproj -> C:\Users\smlij\source\repos\4장 과제\Debug\4장 과제.exe

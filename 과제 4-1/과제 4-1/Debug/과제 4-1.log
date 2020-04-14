@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\smlij\source\repos\과제 4-1\과제 4-1\소스.c(12,11): warning C4013: 'is_larger'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\smlij\source\repos\과제 4-1\과제 4-1\소스.c(22): warning C4716: 'is_larger': 값을 반환해야 합니다.
+  과제 4-1.vcxproj -> C:\Users\smlij\source\repos\과제 4-1\Debug\과제 4-1.exe

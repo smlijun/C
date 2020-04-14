@@ -1,0 +1,17 @@
+﻿'과제1 int형.exe'(Win32): 'C:\Users\smlij\source\repos\과제1\Release\과제1 int형.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\ntdll.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\kernel32.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\KernelBase.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\ucrtbase.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\vcruntime140.dll'을(를) 로드했습니다. 
+0x4874 스레드가 종료되었습니다(코드: 0 (0x0)).
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\kernel.appcore.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\msvcrt.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\rpcrt4.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\sspicli.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\cryptbase.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\bcryptprimitives.dll'을(를) 로드했습니다. 
+'과제1 int형.exe'(Win32): 'C:\Windows\SysWOW64\sechost.dll'을(를) 로드했습니다. 
+0x21a0 스레드가 종료되었습니다(코드: 0 (0x0)).
+0x2194 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[7144] 과제1 int형.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).

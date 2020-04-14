@@ -1,0 +1,8 @@
+﻿  buble sort.c
+C:\Users\smlij\source\repos\정렬\bubble sort\bubble sort\buble sort.c(32,15): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\smlij\source\repos\정렬\bubble sort\bubble sort\buble sort.c(32,15): warning C4024: 'swap': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\smlij\source\repos\정렬\bubble sort\bubble sort\buble sort.c(32,26): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\smlij\source\repos\정렬\bubble sort\bubble sort\buble sort.c(32,26): warning C4024: 'swap': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\smlij\source\repos\정렬\bubble sort\bubble sort\buble sort.c(45,22): warning C4047: '함수': 'int **'의 간접 참조 수준이 'int [10]'과(와) 다릅니다.
+C:\Users\smlij\source\repos\정렬\bubble sort\bubble sort\buble sort.c(45,22): warning C4024: 'buble_sort': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  bubble sort.vcxproj -> C:\Users\smlij\source\repos\정렬\bubble sort\Debug\bubble sort.exe
