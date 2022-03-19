@@ -1,0 +1,8 @@
+﻿  Q3.c
+C:\Users\smlij\source\repos\컴프실 중간고사\Q3\Q3.c(33,15): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\smlij\source\repos\컴프실 중간고사\Q3\Q3.c(33,15): warning C4024: 'swap': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\smlij\source\repos\컴프실 중간고사\Q3\Q3.c(33,26): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+C:\Users\smlij\source\repos\컴프실 중간고사\Q3\Q3.c(33,26): warning C4024: 'swap': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\smlij\source\repos\컴프실 중간고사\Q3\Q3.c(67,16): warning C4047: '함수': 'int **'의 간접 참조 수준이 'int [20]'과(와) 다릅니다.
+C:\Users\smlij\source\repos\컴프실 중간고사\Q3\Q3.c(67,16): warning C4024: 'buble_sort': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  Q3.vcxproj -> C:\Users\smlij\source\repos\컴프실 중간고사\Debug\Q3.exe
